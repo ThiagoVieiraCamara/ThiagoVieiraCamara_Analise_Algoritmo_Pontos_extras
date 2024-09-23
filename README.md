@@ -1,6 +1,6 @@
-Nome: Thiago Vieira Camara
-Matrícula: 2021000697
-disciplina: Análise de algoritmos
+* Nome: Thiago Vieira Camara
+* Matrícula: 2021000697
+* disciplina: Análise de algoritmos
 
 # Pontos extras da disciplina de análise de algoritmos:
 
